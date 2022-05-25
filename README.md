@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iShashwatdubey
 - 👀 I’m interested in ..java and c++.
-- 🌱 I’m currently learning ..python .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ..python ....
+- 📫 How to reach me ..by asking questions related to java and c++
 
 <!---
 iShashwatdubey/iShashwatdubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
